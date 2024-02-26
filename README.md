@@ -1,2 +1,2 @@
 # TCKimlikNoDogrula
-Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün paylaştığı Public API kullanılarak TC kimlik Numarası doğrulaması yapan Python uygulaması.
+Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü tarafından sunulan API'yi kullanarak TC kimlik no doğrulaması yapan python uygulaması.
